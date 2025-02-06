@@ -1,10 +1,10 @@
 {
-     "sec_poison_id": "",
-     "gid": "",
-     "a1": "",
-     "websectiga": "",
-     "webId": "",
-     "web_session": "",
+     "sec_poison_id": "778ee0ac-c639-4968-a5e1-293e605943de",
+     "gid": "yj4jW4SSy4Ajyj4jW4SD4hDEJ0VUKq0J26kYfq18W1I3yAq8x7AjEl888J42W8K8J022fSdi",
+     "a1": "194974cb42ajp63a25mg807lni1huq9wqvdqobw3l30000245706",
+     "websectiga": "cffd9dcea65962b05ab048ac76962acee933d26157113bb213105a116241fa6c",
+     "webId": "3fa552f2effcd9061ec031a477fe3f2c",
+     "web_session": "040069b7241abb4e240bc192ad354b9e6ba3b9",
      "xsecappid": "xhs-pc-web",
-     "webBuild": "",
+     "webBuild": "4.55.1",
 }
